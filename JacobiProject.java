@@ -1,11 +1,6 @@
 import java.util.Random;
 import java.util.Arrays;
 
-/**
- * @author Priscilla Pun
- **/
-
-
 public class JacobiProject {
 	private static double[] bijList = new double[0];
 	private static double[] aijList = new double[0];
